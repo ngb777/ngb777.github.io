@@ -1,0 +1,10 @@
+h1 { color: #0d3995;
+    text-shadow: #cad5e2 1px 1px 0, #cad5e2 2px 2px 0, 
+                 #cad5e2 3px 3px 0;}
+a { text-decoration: none;}
+a:visited {color: blue;}
+p {text-indent: 20px;}
+h2,h3,h4,h5,h6 {font-size: 110%;}
+span { font-size: 90%;
+color: blue;
+font-style: italic;}
